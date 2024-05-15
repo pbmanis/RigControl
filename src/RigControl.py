@@ -15,7 +15,7 @@ class RigWidget(QtWidgets.QMainWindow):
     def __init__(self):
         super(RigWidget, self).__init__()
         # pg.QtGui.QWidget.__init__(self)
-        self.ui = uic.loadUi("DeviceController.ui", self)
+        self.ui = uic.loadUi("src/DeviceController.ui", self)
         # uic.Ui_Form()
         # self.ui.setupUi(self)
         self.testmode: bool = True
