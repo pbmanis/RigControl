@@ -30,3 +30,6 @@ Software
 --------
 Arduino IDE (c)
 Python 3 (+ pyqtgraph)
+
+2024, pbm
+
