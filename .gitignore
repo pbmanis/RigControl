@@ -7,9 +7,10 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-
+src/DeviceController.py
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
